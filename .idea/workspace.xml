@@ -8,6 +8,10 @@
       <change afterPath="$PROJECT_DIR$/src/Indy/Decipher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Indy/LastCrusade.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Indy/Movies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicles/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicles/Hanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicles/Vehicle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Wilders/Classroom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Wilders/Wilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -43,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CandyCount.executor": "Run",
+    "Application.Classroom.executor": "Run",
     "Application.Decipher.executor": "Run",
     "Application.LastCrusade.executor": "Run",
     "Application.Main.executor": "Run",
@@ -59,7 +64,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Classroom">
+  <component name="RunManager" selected="Application.Hanger">
     <configuration name="Classroom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Wilders.Classroom" />
       <module name="JavaProjects" />
@@ -86,8 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hanger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vehicles.Hanger" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vehicles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hanger" />
         <item itemvalue="Application.Classroom" />
         <item itemvalue="Application.Decipher" />
       </list>
