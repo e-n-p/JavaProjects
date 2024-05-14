@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81b7d201-6fc6-41cb-a489-f71b4b7bf967" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Indy/LastCrusade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Indy/Movies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -36,7 +38,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CandyCount.executor": "Run",
+    "Application.LastCrusade.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Movies.executor": "Run",
     "Application.Senpai.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
